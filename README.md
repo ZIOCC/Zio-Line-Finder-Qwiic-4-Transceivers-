@@ -36,7 +36,7 @@ Because the PCA9539A has 16 digital I/O channels, we’ve broken out the other 1
 
 #### Links
 
-* [Eagle File and Schematic](https://github.com/ZIOCC/Zio-Line-Finder-Qwiic-4-Transceivers-/blob/master/Line%20Finder%20Main%20Board%20SCH-PDF.pdf)
+* [Eagle File and Schematic](https://github.com/ZIOCC/Zio-Line-Finder-Qwiic-4-Transceivers-)
 * [PCA9539 Library and Example Code](https://www.smart-prototyping.com/image/data/NOA-RnD/101904%20line%20finder/Zio_Line_Finder_Library.zip)
 * [PCA9539 Datasheet](http://www.ti.com/lit/ds/symlink/pca9539.pdf)
 * [LM339DR Datasheet](http://www.ti.com/lit/ds/snosbj3e/snosbj3e.pdf)
